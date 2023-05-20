@@ -13,7 +13,7 @@ JOBS = [
     {
         'id': 2,
         'title': 'Data Scientist',
-        'location': 'Mombas, Kenya',
+        'location': 'Mombasa, Kenya',
         'salary': 'Ksh 120,000'
     },
     {
