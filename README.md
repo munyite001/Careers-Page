@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@githubhandle](https://github.com/munyite001)
 - Twitter: [@twitterhandle](https://twitter.com/emunyite)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/munyite)
 
 
 ## 🤝 Contributing
