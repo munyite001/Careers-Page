@@ -1,2 +1,3 @@
 flask
 gunicorn
+sqlalchemy<2.0
